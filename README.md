@@ -1,4 +1,4 @@
-![License](https://img.shields.io/badge/License-CC0 1.0-0284C7.svg?logo=&style=flat-square)
+![License](https://img.shields.io/badge/License-CC01.0-0284C7.svg?logo=&style=flat-square)
 
 ### 💧 Personal Blog
 
@@ -8,9 +8,7 @@
 
 #### Usage
 
-[Hogo](https://gohugo.io/about/)  ・  [Theme](https://github.com/adityatelange/hugo-PaperMod)
-
-Dev
+[Hogo](https://gohugo.io/about/)  ・  [Theme](https://github.com/adityatelange/hugo-PaperMod) 
 
 ```sh
 ./hugo server
