@@ -1,0 +1,14 @@
+{
+  "name": "personal-blog",
+  "license": "CC0 1.0",
+  "author": "renhou",
+  "private": true,
+  "scripts": {
+    "install:hugo": "hugo-installer --version 0.108.0 --extended",
+    "dev": "exec-bin bin/hugo/hugo server"
+  },
+  "dependencies": {
+    "exec-bin": "^1.0.0",
+    "hugo-installer": "^4.0.1"
+  }
+}
