@@ -12,7 +12,7 @@
 
 初期化
 
-```powershell
+```shell
 git clone https://github.com/kensoz/personal-blog.git
 yarn
 ```
