@@ -10,6 +10,13 @@
 
 ## メモ
 
+初期化
+
+```powershell
+git clone https://github.com/kensoz/personal-blog.git
+yarn
+```
+
 Hugoインストール
 
 ```powershell
