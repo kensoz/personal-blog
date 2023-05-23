@@ -8,19 +8,20 @@
 
 
 
-## メモ
+## インストール
 
-初期化
+Gitダウンロードと初期化
 
 ```shell
 git clone https://github.com/kensoz/personal-blog.git
+
 yarn
 ```
 
 Hugoインストール
 
 ```powershell
-yarn install:hugo
+yarn run install:hugo
 ```
 
 開発
