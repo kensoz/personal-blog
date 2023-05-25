@@ -1,16 +1,14 @@
 # 💧 Personal Blog
 
-![Node](https://img.shields.io/badge/Node.js-v19.4.0-fb7185.svg?logo=&style=flat-square)  ![License](https://img.shields.io/badge/License-CCO-0284C7.svg?logo=&style=flat-square)
+![Node](https://img.shields.io/badge/Node.js-v19.4.0-fb7185.svg?logo=&style=flat-square) ![License](https://img.shields.io/badge/License-CCO-0284C7.svg?logo=&style=flat-square)
 
 プライベート用のブログです。
 
-[Hogo](https://gohugo.io/about/)  ・  [Theme](https://github.com/adityatelange/hugo-PaperMod) 
-
-
+[Hogo](https://gohugo.io/about/) ・ [Theme](https://github.com/adityatelange/hugo-PaperMod)
 
 ## インストール
 
-Gitダウンロードと初期化
+ダウンロードと初期化
 
 ```shell
 git clone https://github.com/kensoz/personal-blog.git
@@ -18,10 +16,19 @@ git clone https://github.com/kensoz/personal-blog.git
 yarn
 ```
 
-Hugoインストール
+Hugo インストール
 
 ```powershell
 yarn run install:hugo
+```
+
+Hugo theme インストール
+
+```powershell
+git clone https://github.com/adityatelange/hugo-PaperMod themes/PaperMod --depth=1
+
+cd themes/PaperMod
+git pull
 ```
 
 開発
@@ -29,4 +36,3 @@ yarn run install:hugo
 ```powershell
 yarn dev
 ```
-

@@ -5,7 +5,9 @@
   "private": true,
   "scripts": {
     "install:hugo": "hugo-installer --version 0.108.0 --extended",
-    "dev": "exec-bin bin/hugo/hugo server"
+    "dev": "exec-bin bin/hugo/hugo server",
+    "build": "exec-bin bin/hugo/hugo",
+    "clean": "rimraf public/*"
   },
   "dependencies": {
     "exec-bin": "^1.0.0",
