@@ -67,7 +67,7 @@ params:
   homeInfoParams:
     Title: "Lai"
     Content: >
-      Welcome to demo of Lai.
+      Welcome to demo of Lai !
 
   socialIcons:
     - name: github
