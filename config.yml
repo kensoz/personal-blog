@@ -28,7 +28,7 @@ languages:
           url: tags/
           weight: 10
         - name: GitHub
-          url: https://github.com/adityatelange/hugo-PaperMod/wiki/
+          url: https://github.com/kensoz
 
   ja:
     languageName: "日本語"
@@ -49,7 +49,7 @@ languages:
           url: tags/
           weight: 10
         - name: GitHub
-          url: https://github.com/kensoz/personal-blog
+          url: https://github.com/kensoz
 
 params:
   description: "blog"
