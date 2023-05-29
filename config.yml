@@ -6,11 +6,12 @@ enableEmoji: true
 enableRobotsTXT: true
 enableInlineShortcodes: true
 copyright: "©︎ 2023 renhou"
-defaultContentLanguage: cn
+defaultContentLanguage: zh-cn
 
 languages:
-  cn:
+  zh-cn:
     languageName: "简体中文"
+    languageCode: "zh-cn"
     weight: 1
     taxonomies:
       category: categories
@@ -32,6 +33,7 @@ languages:
 
   ja:
     languageName: "日本語"
+    languageCode: "ja"
     weight: 1
     taxonomies:
       category: categories
