@@ -1,5 +1,5 @@
 baseURL: https://kensoz.github.io
-title: BLOG
+title: My BLOG
 theme: PaperMod
 
 enableEmoji: true
@@ -52,7 +52,7 @@ languages:
           url: https://github.com/kensoz/personal-blog
 
 params:
-  description: "blog"
+  description: "renhou my blog"
   author: renhou
 
   defaultTheme: auto
