@@ -69,7 +69,7 @@ params:
   homeInfoParams:
     Title: "My BLOG"
     Content: >
-      永遠に女性的なるもの、我らを引きて昇らしむ
+      -
 
   socialIcons:
     - name: github
